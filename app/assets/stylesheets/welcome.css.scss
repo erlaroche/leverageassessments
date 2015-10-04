@@ -1,0 +1,36 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+	color: black;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-image: image-url('#');
+}
+h1 {
+	font-size: 75px;
+}
+h4 {
+	font-size: 30px;
+}
+p{
+	font-size: 20px;
+}
+.all {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+img {
+	border: 2px solid black;
+	border-radius: 30px;
+}
+img#construction {
+	height: 150px;
+}
+img#more_construction {
+	height: 300px;
+}
